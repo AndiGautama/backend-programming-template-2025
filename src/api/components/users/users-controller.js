@@ -192,7 +192,7 @@ async function deleteUser(request, response, next) {
 }
 
 module.exports = {
-  getUsers,
+  getUsers, 
   getUser,
   createUser,
   updateUser,
